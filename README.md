@@ -1,1 +1,1 @@
-Go through the Customer_Segmentation.ipynb file.
+Main code file (with analysis and recommendations) - Customer_Segmentation.ipynb
